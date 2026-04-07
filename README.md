@@ -7,3 +7,4 @@
 | 3 | SMS Spam | Classification Models | Text preprocessing, NLP, binary classification | [📓 Open](./03_sms-spam/sms_spam.ipynb) |
 | 4 | Digit Recognizer | Random Forest, Neural Network (TensorFlow/Keras) | Image classification, preprocessing, confusion matrix | [📓 Open](./04_Digit-recognizier/digit.ipynb) |
 | 5 | IMDB Reviews | TF-IDF, Logistic Regression, Naive Bayes | Text cleaning, sentiment analysis, model evaluation, hyperparameter tuning | [📓 Open](./05_IMDB/IMDB.ipynb) |
+| 6 | CIFAR-10 | CNN (TensorFlow/Keras) | Deep learning, image classification, convolutional networks | [📓 Open](./06_CIFAR-10/CIFAR_10.ipynb) |
